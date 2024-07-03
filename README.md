@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Hello! My name is Elías Basaldua. I am a back-end developer and also an aerospace engineering student. I am fascinated by continuous learning and all the technologies we currently have at our disposal to learn and create wonders.<br>Since my youth, I have always had an immense curiosity about how we can control machines, autonomous vehicles, or sensors of all kinds. During high school, I had my first approach to programming by pursuing a technical degree in mechatronics. It was at this moment that I discovered all the possibilities encompassed by programming languages. In college, I began to learn and delve deeper on my own, mainly into Python, where I have acquired valuable skills that have led me to explore databases and server logic. This has also led me to learn other skills such as SQL and Django.</p>
+<p align="center">Hello! My name is Elías Basaldua. I am a junior back-end developer and also an aerospace engineering student. I am fascinated by continuous learning and all the technologies we currently have at our disposal to learn and create wonders.<br>Since my youth, I have always had an immense curiosity about how we can control machines, autonomous vehicles, or sensors of all kinds. During high school, I had my first approach to programming by pursuing a technical degree in mechatronics. It was at this moment that I discovered all the possibilities encompassed by programming languages. In college, I began to learn and delve deeper on my own, mainly into Python, where I have acquired valuable skills that have led me to explore databases and server logic. This has also led me to learn other skills such as SQL and Django.</p>
 
 ###
 
