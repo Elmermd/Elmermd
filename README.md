@@ -22,6 +22,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/elmermd/elmermd/output/snake.svg" alt="Snake animation" />
-
-###
