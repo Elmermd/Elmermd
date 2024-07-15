@@ -6,20 +6,22 @@
 
 ###
 
-<p align="center">Hello! My name is Elías Basaldua. I am a junior back-end developer and also an aerospace engineering student. I am fascinated by continuous learning and all the technologies we currently have at our disposal to learn and create wonders.<br>Since my youth, I have always had an immense curiosity about how we can control machines, autonomous vehicles, or sensors of all kinds. During high school, I had my first approach to programming by pursuing a technical degree in mechatronics. It was at this moment that I discovered all the possibilities encompassed by programming languages. In college, I began to learn and delve deeper on my own, mainly into Python, where I have acquired valuable skills that have led me to explore object oriented programming and other stuff.. </p>
+<p align="center">Hello! My name is Elías Basaldua. I am a back-end developer and also an aerospace engineering student. I am fascinated by continuous learning and all the technologies we currently have at our disposal to learn and create wonders.<br>Since my youth, I have always had an immense curiosity about how we can control machines, autonomous vehicles, or sensors of all kinds. During high school, I had my first approach to programming by pursuing a technical degree in mechatronics. It was at this moment that I discovered all the possibilities encompassed by programming languages. In university, I began to learn and delve deeper on my own, mainly into Python, where I have acquired valuable skills that have led me to explore databases and server logic. This has also led me to learn other skills such as SQL and Django.</p>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/elmermd/elmermd/output/snake.svg" alt="Snake animation" />
 
 ###
