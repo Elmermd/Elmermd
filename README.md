@@ -8,8 +8,6 @@
 
 I'm a **Data Scientist** with a unique background in **Aerospace Engineering**, combining technical rigor with analytical problem-solving to transform raw data into actionable insights. I specialize in **predictive modeling**, **machine learning**, and **data visualization** to drive strategic business decisions.
 
--  Recently worked at **AMX Contenido** developing forecasting models for 140+ stores with <5% error margin
--  Graduated in **Aerospace Engineering** from UNAM (National Autonomous University of Mexico)
 -  Currently expanding my skills in **Deep Learning** and advanced **Time Series Analysis**
 -  Passionate about leveraging **data-driven strategies** to optimize operations and reduce costs
 -  Reach me at: eliasbasaldua30@gmail.com
