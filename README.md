@@ -16,19 +16,6 @@ I'm a **Data Scientist** with a unique background in **Aerospace Engineering**, 
 
 ---
 
-## PROFESSIONAL HIGHLIGHTS
-
-### AMX Contenido - Research Data Science Intern
-**Feb 2025 – Aug 2025**
-
-- Analyzed energy, water, and gas consumption data using **Python**, **SQL**, and **Excel**
-- Implemented **K-Means clustering** to detect abnormal consumption patterns in stores
-- Built **forecasting models** with Scikit-Learn, Prophet, and XGBoost achieving <5% error
-- Designed **KPI dashboards** in SAP Analytics Cloud and Power BI for executive decision-making
-- Contributed to research on telemetry systems and instrumentation processes
-
----
-
 ## TECHNICAL SKILLS
 
 ### Programming Languages
