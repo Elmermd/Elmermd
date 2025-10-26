@@ -60,26 +60,6 @@ I'm a **Data Scientist** with a unique background in **Aerospace Engineering**, 
 
 ---
 
-## FEATURED PROJECTS
-
-###  Coming Soon!
-I'm currently building my portfolio with projects focused on:
--  **Time Series Forecasting** - Predicting business metrics with Prophet and XGBoost
--  **Customer Segmentation** - K-Means clustering for targeted strategies
--  **Exploratory Data Analysis** - Uncovering insights from complex datasets
--  **Machine Learning Models** - Classification and regression problems
-
----
-
-##  Certifications
-
--  **Artificial Intelligence Training** - HITSS
--  **Exploratory Data Analysis for Machine Learning** - IBM
--  **Python for Data Science and Machine Learning Bootcamp** - Udemy
--  **SQL Bootcamp** - Udemy
--  **Master Time Series Analysis and Forecasting with Python** - Udemy
-
----
 
 ##  Connect With Me
 
@@ -99,6 +79,5 @@ I'm currently building my portfolio with projects focused on:
 
 <div align="center">
   
-### 💭 *"Data is the new oil, but insights are the refined fuel that drives decisions."*
 
 </div>
