@@ -1,35 +1,35 @@
-# Hi there, I'm Elias Basaldua 👋
+# Hi there, I'm Elias Basaldua!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elias-basaldua)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:eliasbasaldua30@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Elmermd?label=Follow&style=social)](https://github.com/Elmermd)
 
-## 🚀 About Me
+##  ABOUT ME
 
 I'm a **Data Scientist** with a unique background in **Aerospace Engineering**, combining technical rigor with analytical problem-solving to transform raw data into actionable insights. I specialize in **predictive modeling**, **machine learning**, and **data visualization** to drive strategic business decisions.
 
-- 🔭 Recently worked at **AMX Contenido** developing forecasting models for 140+ stores with <5% error margin
-- 🎓 Graduated in **Aerospace Engineering** from UNAM (National Autonomous University of Mexico)
-- 🌱 Currently expanding my skills in **Deep Learning** and advanced **Time Series Analysis**
-- 💡 Passionate about leveraging **data-driven strategies** to optimize operations and reduce costs
-- 📫 Reach me at: eliasbasaldua30@gmail.com
+-  Recently worked at **AMX Contenido** developing forecasting models for 140+ stores with <5% error margin
+-  Graduated in **Aerospace Engineering** from UNAM (National Autonomous University of Mexico)
+-  Currently expanding my skills in **Deep Learning** and advanced **Time Series Analysis**
+-  Passionate about leveraging **data-driven strategies** to optimize operations and reduce costs
+-  Reach me at: eliasbasaldua30@gmail.com
 
 ---
 
-## 💼 Professional Highlights
+## PROFESSIONAL HIGHLIGHTS
 
 ### AMX Contenido - Research Data Science Intern
 **Feb 2025 – Aug 2025**
 
-- 📊 Analyzed energy, water, and gas consumption data using **Python**, **SQL**, and **Excel**
-- 🎯 Implemented **K-Means clustering** to detect abnormal consumption patterns in stores
-- 📈 Built **forecasting models** with Scikit-Learn, Prophet, and XGBoost achieving <5% error
-- 📉 Designed **KPI dashboards** in SAP Analytics Cloud and Power BI for executive decision-making
-- 🔬 Contributed to research on telemetry systems and instrumentation processes
+- Analyzed energy, water, and gas consumption data using **Python**, **SQL**, and **Excel**
+- Implemented **K-Means clustering** to detect abnormal consumption patterns in stores
+- Built **forecasting models** with Scikit-Learn, Prophet, and XGBoost achieving <5% error
+- Designed **KPI dashboards** in SAP Analytics Cloud and Power BI for executive decision-making
+- Contributed to research on telemetry systems and instrumentation processes
 
 ---
 
-## 🛠️ Technical Skills
+## TECHNICAL SKILLS
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,7 +60,7 @@ I'm a **Data Scientist** with a unique background in **Aerospace Engineering**, 
 
 ---
 
-## 📊 GitHub Stats
+## GITHUB STATS
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elmermd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -73,30 +73,28 @@ I'm a **Data Scientist** with a unique background in **Aerospace Engineering**, 
 
 ---
 
-## 🎯 Featured Projects
+## FEATURED PROJECTS
 
-### 🔜 Coming Soon!
+###  Coming Soon!
 I'm currently building my portfolio with projects focused on:
-- 📈 **Time Series Forecasting** - Predicting business metrics with Prophet and XGBoost
-- 🎯 **Customer Segmentation** - K-Means clustering for targeted strategies
-- 🔍 **Exploratory Data Analysis** - Uncovering insights from complex datasets
-- 🤖 **Machine Learning Models** - Classification and regression problems
-
-*Stay tuned! Projects will be added soon.*
+-  **Time Series Forecasting** - Predicting business metrics with Prophet and XGBoost
+-  **Customer Segmentation** - K-Means clustering for targeted strategies
+-  **Exploratory Data Analysis** - Uncovering insights from complex datasets
+-  **Machine Learning Models** - Classification and regression problems
 
 ---
 
-## 📚 Certifications
+##  Certifications
 
-- 🎓 **Artificial Intelligence Training** - HITSS
-- 📊 **Exploratory Data Analysis for Machine Learning** - IBM
-- 🐍 **Python for Data Science and Machine Learning Bootcamp** - Udemy
-- 💾 **SQL Bootcamp** - Udemy
-- 📈 **Master Time Series Analysis and Forecasting with Python** - Udemy
+-  **Artificial Intelligence Training** - HITSS
+-  **Exploratory Data Analysis for Machine Learning** - IBM
+-  **Python for Data Science and Machine Learning Bootcamp** - Udemy
+-  **SQL Bootcamp** - Udemy
+-  **Master Time Series Analysis and Forecasting with Python** - Udemy
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
   
